@@ -1,0 +1,22 @@
+Job Number: 12345ABC_
+Job Title: Software Engineer
+Job Poster Name: John Doe
+Job Poster Address: Melbourne, Victoria, Australia
+Job Posted Date: 2023-05-01
+Job Experience Level: Senior
+Job Type: Full-time
+Job Required Skills: Java, Spring, SQL, 
+Job Salary: 120000.0
+Job Description: Description of the job.
+
+Job Number: 12345ABC_
+Job Title: Software Engineer
+Job Poster Name: John Doe
+Job Poster Address: Melbourne, Victoria, Australia
+Job Posted Date: 2023-05-01
+Job Experience Level: Senior
+Job Type: Full-time
+Job Required Skills: Java, Spring, SQL, 
+Job Salary: 120000.0
+Job Description: Description of the job.
+
